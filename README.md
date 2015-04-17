@@ -34,6 +34,11 @@ Awsome library for me to use.
 
 8. [AndroidFloatLabel](https://github.com/IanGClifton/AndroidFloatLabel)
 
+
+## Component-Material
+
+1. [Ripple](https://github.com/balysv/material-ripple)
+
 ## Chart Diagram
 
 1. [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart)
