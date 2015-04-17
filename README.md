@@ -12,6 +12,11 @@ Awsome library for me to use.
 2. [Dex Method Counts](https://github.com/mihaip/dex-method-counts) 
  
 
+## Floating Action - Material
+
+1. [CircularFloatingActionMenu](https://github.com/oguzbilgener/CircularFloatingActionMenu)
+2. [FloatingActionButton](https://github.com/futuresimple/android-floating-action-button)
+
 ## Drawer - Material
 
 1. [Material Navigation Drawer](https://github.com/neokree/MaterialNavigationDrawer)
@@ -35,7 +40,7 @@ Awsome library for me to use.
 8. [AndroidFloatLabel](https://github.com/IanGClifton/AndroidFloatLabel)
 
 
-## Component-Material
+## Component - Material
 
 1. [Ripple](https://github.com/balysv/material-ripple)
 
