@@ -3,7 +3,12 @@ Awsome library for me to use.
 
 ## Data SDK
 
-1. [SimpleFacebook](https://github.com/sromku/android-simple-facebook)
+1. ~~[SimpleFacebook](https://github.com/sromku/android-simple-facebook)~~
+
+## Database
+
+1. [ormlite](http://ormlite.com/sqlite_java_android_orm.shtml)
+2. [Active Android](https://github.com/pardom/ActiveAndroid)
 
 ## Tools
 
@@ -22,7 +27,9 @@ Awsome library for me to use.
 
 ## Drawer - Material
 
-1. [Material Navigation Drawer](https://github.com/neokree/MaterialNavigationDrawer)
+1. [Material Drawer](https://github.com/mikepenz/MaterialDrawer)
+2. ~~[Material Navigation Drawer](https://github.com/neokree/MaterialNavigationDrawer)~~
+
 
 ## EditText - Material
 
